@@ -1,0 +1,54 @@
+.img {
+    width : 30px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom : 1px solid rgb(143, 233, 233);
+    border-radius: 3px;
+    padding: 15px 40px;
+    font-size: 12px;
+    color: #212529;
+
+}
+
+
+.redChange{
+    color : red
+}
+
+.greenChange{
+    color : green
+}
+
+.redChange , .greenChange {
+    font-weight: bold;
+    text-align: left;
+    width : 100px
+}
+
+.name {
+    text-align: left;
+    width: 150px;
+    font-size: 14px;
+    color: brown;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.symbol {
+    width: 100px;
+    text-align: left;
+   
+}
+.price{
+  width: 100px;
+  text-align: left;
+  
+}
+
+
